@@ -1,7 +1,7 @@
 # jenkins-CICD部署
 
 ## 1.准备阶段
-
+测试
 > 上传Jenkins-exam.tar.gz
 
 ![image-20241123183834478](./node-image/image-20241123183834478.png)
